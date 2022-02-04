@@ -5,9 +5,10 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+#/[Bb]uild/
+#/[Bb]uilds/
 /[Ll]ogs/
+#/[Ww]eb/
 /[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
